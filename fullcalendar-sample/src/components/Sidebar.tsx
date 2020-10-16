@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React from 'react';
 import { EventApi, formatDate } from '@fullcalendar/react';
 import './Sidebar.scss';
 
